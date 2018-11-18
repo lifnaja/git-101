@@ -1,9 +1,3 @@
-Git 101
+Git 101 :wolf:
 
 test
-
-<<<<<<< HEAD
-Git 101  :wolf:
-=======
-hello git 
->>>>>>> Add hello git
